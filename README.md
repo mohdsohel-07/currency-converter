@@ -46,6 +46,7 @@ currency-converter/
 ├── style.css        # Styling and layout
 ├── script.js        # JavaScript logic & API
 ├── code.js          # All country codes & their currency codes
+├── screenshot.png   # Showing the live UI
 └── README.md        # Project information
 ```
 
@@ -53,8 +54,8 @@ currency-converter/
 
 ## 📷 Screenshot
 
-> *(Replace with actual screenshot after deployment)*  
-> ![Currency Converter Screenshot](screenshot.png)
+
+> ![Currency Converter Screenshot](https://github.com/mohdsohel-07/currency-converter/blob/main/screenshot.png)
 
 ---
 
