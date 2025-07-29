@@ -1,6 +1,6 @@
 
 # 💱 Currency Converter
-[live demo](https://mohdsohel-07.github.io/currency-converter/)
+Live Deme -- [Let's play](https://mohdsohel-07.github.io/currency-converter/)
 
 A simple and responsive Currency Converter web application built using HTML, CSS, and JavaScript. It allows users to convert any amount from one currency to another in real-time using exchange rate APIs.
 
