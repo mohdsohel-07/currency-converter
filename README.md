@@ -1,4 +1,3 @@
-
 # 💱 Currency Converter
 Live Deme -- [Let's play](https://mohdsohel-07.github.io/currency-converter/)
 
@@ -21,7 +20,8 @@ A simple and responsive Currency Converter web application built using HTML, CSS
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
-- [ExchangeRate API](https://api.frankfurter.app/latest?amount=1&from=USD&to=INR) 
+- [ExchangeRate API](https://api.frankfurter.app/latest?amount=1&from=USD&to=INR)
+- [Country's flagAPI](https://flagsapi.com/US/flat/64.png)
 
 ---
 
