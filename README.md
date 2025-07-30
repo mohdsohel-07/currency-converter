@@ -21,7 +21,7 @@ A simple and responsive Currency Converter web application built using HTML, CSS
 - CSS3
 - JavaScript (Vanilla JS)
 - [ExchangeRate API](https://api.frankfurter.app/latest?amount=1&from=USD&to=INR)
-- [Country's flagAPI](https://flagsapi.com/US/flat/64.png)
+- [Country's flag API](https://flagsapi.com/US/flat/64.png)
 
 ---
 
