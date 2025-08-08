@@ -51,7 +51,7 @@ currency-converter/
 └── README.md        # Project information
 ```
 
----
+--- 
 
 ## 📷 Screenshot
 
