@@ -11,7 +11,7 @@ A simple and responsive Currency Converter web application built using HTML, CSS
 - Easy-to-use interface  
 - Supports multiple international currencies
 - Fully responsive design for mobile and desktop 
-- Instant conversion results
+- Instant conversion results 
 
 ---
 
